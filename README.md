@@ -5,17 +5,14 @@ DIY project POV-PersistenceOfVision
 How to change a code the program in AT89S52 for Shack Stick Persistence of Vision
 
 
-<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_214225.jpg?raw=true" height="200" widht="400" >
+<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_214225.jpg?raw=true" height="400" widht="400" >
+<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_214733.jpg?raw=true" height="400" widht="400" > <br>
 
-<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_214733.jpg?raw=true" height="200" widht="400" >
-
-<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_231614.jpg?raw=true" height="200" widht="400" >
-
-<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_231623.jpg?raw=true" height="200" widht="400" >
+<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_231614.jpg?raw=true" height="400" widht="400" >
+<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_231623.jpg?raw=true" height="400" widht="400" > <br>
 
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" >
-
-<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" >
+<img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" ><br>
 
 
 
