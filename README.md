@@ -12,6 +12,9 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" >
 <img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/School/logo_senac.png?raw=true" height="30" widht="400" ><br>
 
+<embed src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.pdf"> 
+
+
 
 
 ### My Degree
