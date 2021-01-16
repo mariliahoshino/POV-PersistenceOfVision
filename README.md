@@ -28,7 +28,7 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
   <table cellpadding="0" cellspacing="0" align="center" width="100%" height="100%">
 <tr>
 <td><iframe src="https://render.githubusercontent.com/view/pdf?color_mode=dark&amp;commit=78b32d31a60ac4eeae04e5869425596d696ad7d4&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6172696c6961686f7368696e6f2f5368616b655f537469636b5f504f562d50657273697374656e63654f66566973696f6e2f373862333264333161363061633465656165303465353836393432353539366436393661643764342f706963747572652f504f562d537469636b5f536368656d617469632e706466&amp;nwo=mariliahoshino%2FShake_Stick_POV-PersistenceOfVision&amp;path=picture%2FPOV-Stick_Schematic.pdf&amp;repository_id=327756317&amp;repository_type=Repository#f11713e4-f83f-4abf-b56d-d6728612344e" width="600" height="780" style="border: none;"></iframe></td>
-<td><iframe src="http://devsa.info/teste.pdf" width="600" height="780" style="border: none;"></iframe></td>
+<td><iframe src=https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.pdf width="600" height="780" style="border: none;"></iframe></td>
 </tr>
   
   
