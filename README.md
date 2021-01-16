@@ -19,6 +19,41 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
 
 <include-fragment src="/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/contributors/main/picture/POV-Stick_Schematic.pdf" class="commit-loader">
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="render-wrapper ">
+    <div class="render-container is-render-pending js-render-target  "
+      data-identity="f11713e4-f83f-4abf-b56d-d6728612344e"
+      data-host="https://render.githubusercontent.com"
+      data-type="pdf">
+      <svg viewBox="0 0 16 16" fill="none" style="box-sizing: content-box; color: var(--color-icon-primary);" class="octospinner mx-auto" width="64" height="64">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke">
+    <animateTransform attributeName="transform" type="rotate" from="0 8 8" to="360 8 8" dur="1s" repeatCount="indefinite" />
+  </path>
+</svg>
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.pdf">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/pdf?color_mode=dark&amp;commit=78b32d31a60ac4eeae04e5869425596d696ad7d4&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d6172696c6961686f7368696e6f2f5368616b655f537469636b5f504f562d50657273697374656e63654f66566973696f6e2f373862333264333161363061633465656165303465353836393432353539366436393661643764342f706963747572652f504f562d537469636b5f536368656d617469632e706466&amp;nwo=mariliahoshino%2FShake_Stick_POV-PersistenceOfVision&amp;path=picture%2FPOV-Stick_Schematic.pdf&amp;repository_id=327756317&amp;repository_type=Repository#f11713e4-f83f-4abf-b56d-d6728612344e" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+          Viewer requires iframe.
+      </iframe>
+    </div>
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
