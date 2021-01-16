@@ -14,6 +14,11 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
 
 <embed src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.pdf"> 
 
+<link rel="canonical" href="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.pdf" data-pjax-transient>
+
+
+<include-fragment src="/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/contributors/main/picture/POV-Stick_Schematic.pdf" class="commit-loader">
+  
 
 
 
