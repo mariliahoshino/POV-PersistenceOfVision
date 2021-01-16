@@ -9,7 +9,7 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
 
 <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_231614.jpg?raw=true" height="400" widht="400" > &nbsp;&nbsp;&nbsp;<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20201216_231623.jpg?raw=true" height="400" widht="400" > <br>
 
-<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.png" height="700" widht="900" >
+<img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.png" height="600" widht="600" >
   
   
   
