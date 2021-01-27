@@ -14,7 +14,33 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
   
   Customing message
   
-  1º Open Adobe Photoshop
+  1º Open Adobe Photoshop <br>
+  Bitmap 1bit<br>
+  Width 64<br>
+  Height 16<br>
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/open_adobe-photoshop.png?raw=true" height="600" widht="600" >
+  
+  2° Write a word
+  
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/write-a-word.png?raw=true" height="600" widht="600" >
+  
+  
+  
+  3? rotate the word
+    <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/rotate-word.png?raw=true" height="600" widht="600" >
+    
+  4°  Save as .BMP
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/save-word.png?raw=true" height="600" widht="600" >
+  
+  
+  5º Open in HEX Editor file
+  In the file we ignore the beginning and end and also the columns marked in the image
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/Hexeditor-word.png?raw=true" height="600" widht="600" >
+  
+  After Open a <a href="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/tree/main/original_file"> fonte_original.bin </a>
+  and edit some lines
+  
+  
 
 
 
@@ -54,6 +80,9 @@ https://mikroc-pro-for-8051.software.informer.com/download/#downloading <br>
 
 Or Can use this for edit code<br>
 https://www.keil.com/demo/eval/c51.htm#/DOWNLOAD <br>
+
+For open as HEX
+https://www.hhdsoftware.com/free-hex-editor
 
 https://leap.tardate.com/electronics101/povshakestickkit/
 
