@@ -12,7 +12,9 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
 <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/POV-Stick_Schematic.png" height="600" widht="600" >
   
   
+  Customing message
   
+  1º Open Adobe Photoshop
 
 
 
