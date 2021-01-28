@@ -18,19 +18,16 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
   Bitmap 1bit<br>
   Width 64<br>
   Height 16<br>
-  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/open_adobe-photoshop.png?raw=true" height="600" widht="600" >
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/open_adobe-photoshop.png?raw=true" height="600" widht="600" ><br>
   
-  2° Write a word
+  2° Write a word<br>
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/write-a-word.png?raw=true" height="600" widht="600" ><br>
   
-  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/write-a-word.png?raw=true" height="600" widht="600" >
-  
-  
-  
-  3? rotate the word
-    <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/rotate-word.png?raw=true" height="600" widht="600" >
+  3° rotate the word<br>
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/rotate-word.png?raw=true" height="600" widht="600" ><br>
     
-  4°  Save as .BMP
-  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/save-word.png?raw=true" height="600" widht="600" >
+  4° Save as <b>*.BMP</b><br>
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/save-word.png?raw=true" height="600" widht="600" ><br>
   
   
   5º Open in HEX Editor file
