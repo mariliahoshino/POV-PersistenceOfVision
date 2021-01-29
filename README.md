@@ -73,7 +73,7 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
 
 
 
-Source:<br><br>
+Source (1):<br><br>
 How program AVR<br>
 https://www.youtube.com/watch?v=EKlpHcpSUzQ <br>
 
@@ -86,10 +86,14 @@ https://mikroc-pro-for-8051.software.informer.com/download/#downloading <br>
 Or Can use this for edit code<br>
 https://www.keil.com/demo/eval/c51.htm#/DOWNLOAD <br>
 
-For open as HEX
+For open as HEX<br>
 https://www.hhdsoftware.com/free-hex-editor
 
+
+source(2):<br>
 https://leap.tardate.com/electronics101/povshakestickkit/
+
+https://github.com/tardate/LittleArduinoProjects/tree/master/Electronics101/PovShakeStickKit
 
 https://pan.baidu.com/share/link?shareid=532839&uk=1161248057
 
