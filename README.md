@@ -40,8 +40,10 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
   <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/Edit_code.png?raw=true" height="600" widht="600" ><br>
   
   8° Clear the memory and Burn with new code<br>
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20210128_210906.jpg?raw=true" height="600" widht="600" ><br>
   
-  In this picture with new code
+  In this picture with new code<br>
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/20210128_213122_edit.jpg?raw=true" height="600" widht="600" ><br>
   
   
 
