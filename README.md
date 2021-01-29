@@ -29,13 +29,19 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
   4° Save as <b>*.BMP</b><br>
   <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/save-word.png?raw=true" height="600" widht="600" ><br>
   
-  
-  5º Open in HEX Editor file
+ 5º Open in HEX Editor file
   In the file we ignore the beginning and end and also the columns marked in the image
   <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/Hexeditor-word2.png?raw=true" height="600" widht="600" >
   
-  After Open a <a href="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/tree/main/original_file"> fonte_original.bin </a>
-  and edit some lines
+  6°After Open a <a href="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/tree/main/original_file"> fonte_original.bin </a>
+  and edit some lines in program ISP
+  
+  7° In ProgISP the fonte_original.bin had change the original code
+  <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/Edit_code.png?raw=trueheight="600" widht="600" ><br>
+  
+  8° Clear the memory and Burn with new code
+  
+  In this picture with new code
   
   
 
