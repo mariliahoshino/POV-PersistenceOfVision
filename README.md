@@ -30,7 +30,7 @@ How to change a code the program in AT89S52 for Shack Stick Persistence of Visio
   <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/save-word.png?raw=true" height="600" widht="600" ><br>
   
  5º Open in HEX Editor file
-  In the file we ignore the beginning and end and also the columns marked in the image
+  In the file we ignore the beginning and end and also the columns checked in the image
   <img src="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/blob/main/picture/Hexeditor-word2.png?raw=true" height="600" widht="600" >
   
   6°After Open a <a href="https://github.com/mariliahoshino/Shake_Stick_POV-PersistenceOfVision/tree/main/original_file"> fonte_original.bin </a>
