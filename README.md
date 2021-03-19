@@ -10,6 +10,9 @@
 # POV-PersistenceOfVision
 DIY project POV-PersistenceOfVision
 
+Video on Instagran <br>
+https://www.instagram.com/p/CMlHATfJwxl <br>
+
 
 How to change a code the program in AT89S52 for Shack Stick Persistence of Vision
 
